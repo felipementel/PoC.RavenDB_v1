@@ -1,0 +1,6 @@
+@localHost = https://localhost:7138
+
+GET {{localHost}}/api/Person
+Accept: application/json
+
+###
